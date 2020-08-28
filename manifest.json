@@ -1,0 +1,14 @@
+{
+ "manifast_version": 5,
+ "name": Scratch,
+ "version": 1.0,
+ "description": Scratch,
+ "icons": {
+    "16": "images/size16.png",
+    "48": "images/size48.png",
+    "128": "images/size128.png"
+  }
+ "browzer_action": {
+    "default_popup": "Scratch.html",
+    "default_icon": "images/size48.png"
+  } 
